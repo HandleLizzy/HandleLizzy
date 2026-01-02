@@ -6,7 +6,6 @@ I’m Elizabeth, a Full-Stack Developer passionate about solving real-life probl
 
 ❤️ I have a passion for Frontend Development specifically.
 
-🌱 I’m currently working on continuous learning, enrolled in The Odin Project Curriculum.  Looking forward to completing challenges and Projects on the curriculum
 
 💞️ I’m looking to collaborate on open-source projects and am open to new job opportunities.
 
