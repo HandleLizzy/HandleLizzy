@@ -1,13 +1,9 @@
-Hi there 👋
+Hi, I’m Elizabeth Sibambo 👋
 
-I’m Elizabeth, a Full-Stack Developer passionate about solving real-life problems with code. I have a qualification in Software Development, Obtained from Tshwane University of Technology.
+💻 Software Developer | IT Professional  
+🚀 Passionate about building web applications and solving real-world problems  
+🛠️ Tech: C#, ASP.NET, JavaScript, React, Node.js, SQL  
 
-👀 I’m interested in using data for good by building front-end and back-end projects that meet the daily needs of users.
-
-❤️ I have a passion for Frontend Development specifically.
-
-
-💞️ I’m looking to collaborate on open-source projects and am open to new job opportunities.
-
-
+📌 Currently working on: Personal Portfolio & Full-Stack Projects  
+📫 Contact: lizzyhandle7@gmail.com
 
